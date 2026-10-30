@@ -1,0 +1,2 @@
+# spotless
+opensource CRM
